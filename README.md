@@ -1,4 +1,4 @@
-<h1 align="center">👋 Xin chào! Tôi là [Tên của bạn]</h1>
+<h1 align="center">👋 Xin chào! Tôi là Việt Phí</h1>
 
 <p align="center">
   🚀 Đang là sinh viên<br>
