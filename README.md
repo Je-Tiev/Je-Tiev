@@ -1,8 +1,8 @@
-<h1 align="center">👋 Xin chào! Tôi là Việt Phí</h1>
+<h1 align="center">👋 Xin chào! Tôi là Việt Phí (JeTiev)</h1>
 
 <p align="center">
   🚀 Đang là sinh viên<br>
-  📚 Yêu thích C, C++ ,Python<br>
+  📚 Yêu thích C, C++ , Python, C#<br>
   ✉️ Liên hệ: coc14012004@gmail.com 📍 Hà Nội
 </p>
 
@@ -11,7 +11,7 @@
 ## 🛠️ Kỹ năng
 
 - 💻 Ngôn ngữ: C, C++, Python, Java, ...
-- ⚙️ Công cụ: Git, Docker, VSCode, STM32CubeIDE, ...
+- ⚙️ Công cụ: Git, VSCode, Rider, Android Studio, ...
 - 🔧 Hệ điều hành: Linux, Windows
 
 ---
@@ -30,13 +30,11 @@
 
 ## 📂 Một số dự án nổi bật
 
-- 🔹 [Tên dự án 1](link) — mô tả ngắn
-- 🔹 [Tên dự án 2](link) — mô tả ngắn
-- 🔹 [Tên dự án 3](link) — mô tả ngắn
+- 🔹 
 
 ---
 
 ## 📫 Kết nối với tôi
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/je-tiev141/
 - Email: coc14012004@gmail.com 
