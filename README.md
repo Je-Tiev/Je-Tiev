@@ -1,40 +1,40 @@
-<h1 align="center">👋 Xin chào! Tôi là Việt Phí (JeTiev)</h1>
+# Je-Tiev
 
-<p align="center">
-  🚀 Đang là sinh viên<br>
-  📚 Yêu thích C, C++ , Python, C#<br>
-  ✉️ Liên hệ: coc14012004@gmail.com 📍 Hà Nội
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Je-Tiev&color=blueviolet)
 
----
+## My Ultimate Goal in My Life
 
-## 🛠️ Kỹ năng
+Become a rich man and let my mom fly around the world.
 
-- 💻 Ngôn ngữ: C, C++, Python, Java, ...
-- ⚙️ Công cụ: Git, VSCode, Rider, Android Studio, ...
-- 🔧 Hệ điều hành: Linux, Windows
+## Here are some of my skills as a developer:
 
----
+✅ Algorithms: Graph Theory, Number Theory, Game Theory, Dynamic Programming, Bitmask DP etc.  
+✅ Mathematics: Discrete Mathematics, Probability, Combinatorics etc.  
+✅ Data Structure: Segment Tree, BIT, BST, Trie, Hashing etc.  
+✅ Programming Languages: C, C++, Java, Python, Kotlin, JavaScript, C#.  
+✅ Frameworks/Libraries: React, Angular, .NET.  
+✅ AI & ML: TensorFlow, PyTorch.  
+✅ Databases: MySQL, NoSQL, MongoDB.  
+✅ Markup: HTML, CSS.
 
-## 📈 Thống kê GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Je-Tiev&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+## Hobbies:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je-Tiev&layout=compact&theme=default" alt="Top Languages" />
-</p>
+... <br>
+🕮 Reading Books <br>
+🎬 Watching film <br>
+🎮 Playing Video Games <br>
+📷 Taking picture <br>
+⚽ Playing football <br>
 
----
 
-## 📂 Một số dự án nổi bật
+## My Social Links:
 
-- 🔹 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Je-Tiev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/je-tiev141/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jetiev141/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](twitter) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](stackoverflow) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](youtube) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:coc14012004@gmail.com)
 
----
 
-## 📫 Kết nối với tôi
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je-Tiev)](https://github.com/anuraghazra/github-readme-stats)
 
-- LinkedIn: https://www.linkedin.com/in/je-tiev141/
-- Email: coc14012004@gmail.com 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Je-Tiev&show_icons=true&theme=gruvbox_light)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Je-Tiev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
